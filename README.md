@@ -10,7 +10,7 @@ Share text, image, web
 
 1. ```cordova plugin add cordova-plugin-dingtalk-ios --variable DINGTALK_APPID=YOUR_DingTalk_APPID```
 
-2. ```cordova plugin add https://github.com/wayshon/cordova-plugin-dingtalk-ios.git  --variable DINGTALK_APPID=YOUR_DingTalk_APPID```
+2. ```cordova plugin add https://github.com/MiniXixi/cordova-plugin-dingtalk-ios.git --variable DINGTALK_APPID=YOUR_DingTalk_APPID```
 
 3. if your cordova version <5.1.1,check the URL Type using XCode
 
